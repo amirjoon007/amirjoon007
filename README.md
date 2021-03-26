@@ -1,8 +1,6 @@
-- 👋 Hi, we are web designers.
-- 👀 I’m interested in front end
-- 🌱 I’m currently learning front end
+- 👋 hey, we are web designers.
+- 👀 we are interested in front end
+- 🌱 we are currently learning front end
 - 💞️ I’m looking to collaborate on eome projs
-- 📫 How to reach me , is simple. contact with my email plZ.
-
-<!---
-amirjo
+- 📫 How to reach us , is really simple !  
+- contact with our email plZ.
